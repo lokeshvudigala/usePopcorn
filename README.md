@@ -4,12 +4,12 @@
 
 Project Description
 
-usePopcorn is a web application that allows users to:
-Search for movies using the OMDb API.
-View a list of movie search results, along with movie details like release year, rating, and genre.
-Add movies to a personal "Watched Movies" list.
-Rate movies with a custom user rating and view average IMDb ratings.
-Persist watched movies in local storage to maintain your watchlist between sessions.
+- usePopcorn is a web application that allows users to:
+- Search for movies using the OMDb API.
+- View a list of movie search results, along with movie details like release year, rating, and genre.
+- Add movies to a personal "Watched Movies" list.
+- Rate movies with a custom user rating and view average IMDb ratings.
+- Persist watched movies in local storage to maintain your watchlist between sessions.
 
 
 Technologies Used
